@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.yuanjiexie.spring2016.oraclebones.MainActivity">
+
+    <TextView
+        android:layout_height="85dp"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimaryLighter"
+        android:textColor="@android:color/white"
+        android:text="Welcome to learn OracleBones.\n欢迎学习甲骨文。:)\n(huān yíng xué xí jiǎ gǔ wén)"
+        android:gravity="center"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center_horizontal">
+
+
+        <TextView
+            android:id="@+id/numbers"
+            style="@style/CategoryStyle"
+            android:background="@color/category_numbers"
+            android:text="Numbers \n数字 (shù zì)"
+            android:onClick="openNumbers"/>
+
+        <TextView
+            android:id="@+id/nature"
+            style="@style/CategoryStyle"
+            android:background="@color/category_nature"
+            android:text="Nature \n自然 (zì rán)"
+            android:onClick="openNature"
+            android:layout_gravity="right" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/animal"
+            style="@style/CategoryStyle"
+            android:background="@color/category_animal"
+            android:text="Animals \n动物 (dòng wù)"
+            android:onClick="openAnimal"/>
+
+        <TextView
+            android:id="@+id/life"
+            style="@style/CategoryStyle"
+            android:background="@color/category_life"
+            android:text="Life \n生活 (shēng huó)"
+            android:onClick="openLife"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

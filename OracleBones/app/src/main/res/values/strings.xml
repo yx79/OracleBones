@@ -1,0 +1,8 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">OracleBones</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+
+
+</resources>
