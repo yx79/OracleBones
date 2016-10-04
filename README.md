@@ -4,3 +4,7 @@ OracleBones is a Android app for Chinese learners to have fun exploring the writ
 This free app is available at Google Play Store.
 
 https://play.google.com/store/apps/details?id=com.yuanjiexie.spring2016.oraclebones
+
+
+
+[]!(https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/oraclebonesdemo.gif)
