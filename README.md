@@ -7,4 +7,4 @@ https://play.google.com/store/apps/details?id=com.yuanjiexie.spring2016.oraclebo
 
 
 
-[]!(https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/oraclebonesdemo.gif)
+![](https://s3-us-west-2.amazonaws.com/yuanjiexie/spring2016/oraclebonesdemo.gif)
