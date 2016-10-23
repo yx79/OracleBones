@@ -8,7 +8,13 @@ This free app is available at Google Play Store.
 https://play.google.com/store/apps/details?id=com.yuanjiexie.spring2016.oraclebones
 
 Product page:
+
 http://spring2016.yuanjiexie.com/oraclebones.html
+
+
+中文页面 （Chinese）：
+
+http://spring2016.yuanjiexie.com/jiaguwen.html
 
 
 
