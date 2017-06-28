@@ -9,12 +9,12 @@ https://play.google.com/store/apps/details?id=com.yuanjiexie.spring2016.oraclebo
 
 Product page:
 
-http://spring2016.yuanjiexie.com/oraclebones.html
+http://www.yuanjiexie.com/oraclebones.html
 
 
 中文页面 （Chinese）：
 
-http://spring2016.yuanjiexie.com/jiaguwen.html
+http://www.yuanjiexie.com/jiaguwen.html
 
 
 
